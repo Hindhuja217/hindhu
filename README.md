@@ -1,1 +1,1 @@
-# hindhu
+# Rubix cube
